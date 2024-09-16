@@ -13,5 +13,5 @@ Here, I have uploaded the pdf from my local device, for a more general use case 
 
 
 The following is the architecture diagram! 
-[Screenshot (14)](https://github.com/user-attachments/assets/8b99b89b-dad9-46ff-90c1-025c4630f51f)
+![Screenshot (14)](https://github.com/user-attachments/assets/514b2963-e62f-45b5-b8b5-7c73621931fc)
 
