@@ -4,9 +4,9 @@ I made a simple app **"Chat with your pdf!"** that can interact with a bulky pdf
 It is built using the python language and run by streamlit
 
 I made use of the following azure functionalities:
-+☀️ Azure AI Search
-+☀️ Azure Open AI
-+☀️ Azure Blob storage
++ ☀️ Azure AI Search
++ ☀️ Azure Open AI
++ ☀️ Azure Blob storage
 
 Here, I have uploaded the pdf from my local device, for a more general use case for user to upload their own files we can use
 ☀ Azure Form Recognizer Service
