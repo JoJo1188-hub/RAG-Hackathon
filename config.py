@@ -22,3 +22,4 @@ verbose=values_env['verbose']
 FILE_PATH = values_env['FILE_PATH']
 
 formrecognizerservice=values_env['formrecognizerservice']
+#formrecognizer_creds=values_env['formrecognizer_creds']
